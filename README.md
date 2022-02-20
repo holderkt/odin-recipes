@@ -1,0 +1,1 @@
+This is a showcase of what I have learned so far about html.  I have learned how to create headings, paragraphs, and lists.  I can create links and insert images.  I'm still having a little trouble with setting up my file structure and moving files using the Terminal, but I am improving my problem-solving skills.
